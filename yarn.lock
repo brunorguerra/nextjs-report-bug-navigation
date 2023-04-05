@@ -122,7 +122,7 @@ nanoid@^3.3.4:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
   integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
-next@canary:
+next@^13.2.5-canary.30:
   version "13.2.5-canary.30"
   resolved "https://registry.yarnpkg.com/next/-/next-13.2.5-canary.30.tgz#ce83aa6df4430313281c33d49dd2b853578f0b4d"
   integrity sha512-IJVkbBEmdxNRxHzgjYejQsWjN2V4YoD9HBjf0gNftbT1K8azDeTo9QpAXAEw8JmKbd4oBQ7wT5cTJo9oSVP87Q==
